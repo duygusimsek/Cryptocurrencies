@@ -53,7 +53,7 @@ The following steps had been completed:
 * A table with tradable cryptocurrencies was created using the "hvplot.table()" function [Image.4.2](https://github.com/duygusimsek/Cryptocurrencies/blob/main/Images_cyrpto/Deliverable_4.2.png)
 * The total number of tradable cryptocurrencies was printed, and **there were 532 tradable cryptocurrencies found**. 
 * A DataFrame was created that contains the "clustered_df" DataFrame index, the "scaled data", and the "CoinName" and "Class" columns. [Image.4.3](https://github.com/duygusimsek/Cryptocurrencies/blob/main/Images_cyrpto/Deliverable_4.3.png)
-* A hvplot scatter plot was created where the X-axis was "TotalCoinsMined", the Y-axis was "TotalCoinSupply", the data was ordered by "Class", and it showed the “CoinName” when was hovered over the data point [Image.4.4](https://github.com/duygusimsek/Cryptocurrencies/blob/main/Images_cyrpto/Deliverable_4.4.png)
+* A hvplot scatter plot was created where the X-axis was "TotalCoinsMined", the Y-axis was "TotalCoinSupply", the data was ordered by "Class", and it showed the “CoinName” when was hovered over the data point ![Image.4.4](https://github.com/duygusimsek/Cryptocurrencies/blob/main/Images_cyrpto/Deliverable_4.4.png)
 
 ## Resources 
 
