@@ -11,7 +11,7 @@ For this analysis;
 * Cryptocurrencies were clustered by using K-Means
 * The classification results were visualized with 2D and 3D scatter plots
 
-## Result
+## Results
 
 ### 1.Preprocessing the Data for PCA
 
