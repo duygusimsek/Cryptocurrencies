@@ -39,7 +39,7 @@ A new DataFrame named "pcs_df" was created that includes the following columns
 
 The K-means algorithm was used to cluster the cryptocurrencies using the PCA data, where the following steps had been completed:
 
-* An elbow curve was created using "hvPlot" to find the best value for K. [Image.3.1](https://github.com/duygusimsek/Cryptocurrencies/blob/main/Images_cyrpto/Deliverable_3.1.png)
+* An elbow curve was created using "hvPlot" to find the best value for K. ![Image.3.1](https://github.com/duygusimsek/Cryptocurrencies/blob/main/Images_cyrpto/Deliverable_3.1.png)
 * Predictions were made on the K clusters of the cryptocurrencies’ data [Image.3.2](https://github.com/duygusimsek/Cryptocurrencies/blob/main/Images_cyrpto/Deliverable_3.2.png)
 * A new DataFrame was created with the same index as the “crypto_df“ DataFrame and had the following columns: "Algorithm", "ProofType", "TotalCoinsMined", "TotalCoinSupply", "PC 1", "PC 2", "PC 3", "CoinName", and "Class". [Image.3.3](https://github.com/duygusimsek/Cryptocurrencies/blob/main/Images_cyrpto/Deliverable_3.3.png)
 
@@ -49,7 +49,7 @@ By creating scatter plots with Plotly Express and hvplot, the distinct groups w
 
 The following steps had been completed:
 
-* The clusters were plotted using a 3D scatter plot, and each data point showed the "CoinName" and "Algorithm" on hover. [Image.4.1](https://github.com/duygusimsek/Cryptocurrencies/blob/main/Images_cyrpto/Deliverable_4.1.png)
+* The clusters were plotted using a 3D scatter plot, and each data point showed the "CoinName" and "Algorithm" on hover. ![Image.4.1](https://github.com/duygusimsek/Cryptocurrencies/blob/main/Images_cyrpto/Deliverable_4.1.png)
 * A table with tradable cryptocurrencies was created using the "hvplot.table()" function [Image.4.2](https://github.com/duygusimsek/Cryptocurrencies/blob/main/Images_cyrpto/Deliverable_4.2.png)
 * The total number of tradable cryptocurrencies was printed, and **there were 532 tradable cryptocurrencies found**. 
 * A DataFrame was created that contains the "clustered_df" DataFrame index, the "scaled data", and the "CoinName" and "Class" columns. [Image.4.3](https://github.com/duygusimsek/Cryptocurrencies/blob/main/Images_cyrpto/Deliverable_4.3.png)
